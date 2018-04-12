@@ -5,10 +5,10 @@
 
 ### Features
 
--Real Time Chat Engine
--Blog
--Drag and drop interface
--Portofolio Application
+- Real Time Chat Engine
+- Blog
+- Drag and drop interface
+- Portofolio Application
 
 ### Code Example
 
